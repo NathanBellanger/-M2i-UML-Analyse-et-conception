@@ -1,0 +1,3 @@
+Erreur : Seuls les chiens et les chats sont autorisés dans le chenil !
+Rex aboie !
+Mimi miaule !

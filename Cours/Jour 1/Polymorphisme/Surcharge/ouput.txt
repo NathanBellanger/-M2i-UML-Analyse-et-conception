@@ -1,0 +1,9 @@
+Les animaux dans le chenil sont : 
+- Rex
+- Mimi
+- Bella
+- Felix
+Rex aboie !
+Mimi miaule !
+Bella aboie !
+Felix miaule !
