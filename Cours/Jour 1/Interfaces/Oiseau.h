@@ -11,9 +11,6 @@ class Oiseau : public Animal {
         Oiseau(std::string nom) : nom(nom) {}
 
         // Définition spécifique de la méthode faireDuBruit
-        void faireDuBruit() {
-            std::cout << nom << " piaille." << std::endl;
-        }
         void respire() {
             std::cout << nom << " respire." << std::endl;
         }
